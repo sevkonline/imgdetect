@@ -33,6 +33,9 @@ app.get('/resim', function (req, res) {
 
 
 
+// Initialize server
+app.listen(5000, () => {
+  console.log("Running on port 5000.");
+});
 
-
-app.listen(5000, '127.0.0.1', () => console.log('Server running'));
+//app.listen(5000, '127.0.0.1', () => console.log('Server running'));
