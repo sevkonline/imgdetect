@@ -2,6 +2,8 @@ const express = require('express');
 const app = express();
 const vision = require('@google-cloud/vision');
 
+
+
 // Creates a client
 const client = new vision.ImageAnnotatorClient({
   keyFilename: './apikey.json'
@@ -31,11 +33,5 @@ app.get('/resim', function (req, res) {
 
 });
 
-
-
-// Initialize server
-app.listen(5000, () => {
-  console.log("Running on port 5000.");
-});
-
-//app.listen(5000, '127.0.0.1', () => console.log('Server running'));
+const PORT = process.env.PORT || 8080;
+app.listen(PORT, () => console.log('Server running'));
