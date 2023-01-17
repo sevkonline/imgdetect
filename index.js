@@ -22,9 +22,10 @@ app.get('/resim', function (req, res) {
     .then(results => {
       const labels = results[0].labelAnnotations;
       let foundedLabels = [];
-      labels.forEach(label => foundedLabels.push(label.description));
+      let html ='Bu resim şunları içermektedir; </br></br>';
+      labels.forEach(label => html+=`<li>${label.description}</li>`);
 
-      res.send(foundedLabels);
+      res.send(html);
       //console.log(results);
     })
     .catch(err => {
