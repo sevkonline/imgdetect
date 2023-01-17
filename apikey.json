@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "image-detect-ai",
+  "private_key_id": "945fda4f6b2e874429979b45631362d05ee9e498",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyjdY5rEfqCjfL\nIEk+H3MpqWvZYE14aMkzX5brydCPKjD1YshnOthgFGHxCM7e2sD/IwHa7E7ciENz\n7JmcSTKxlK0zbq628nnvDaMEUCjV+s/s1YCt8A2OQDsY567sBlSdioHxqG3sw55M\nV0U+Z9rbxvQVpSmsNgESkCqKKGoQeO2WrxoySk+6qpPTidT51HFWJMOvypP/AUuW\ns4v6v5LuGqbf42ObxP7zHfKLtA4C9kRmbSatJ12fmcY7zjBS3kX1Szal0N+lG+EV\nVQQx5IIhzKRn7GstHUqAub0pM9nr94yj2fKjxXxo9fIxUv+t+GJhVWmE/J1hg1gO\ne+B58jw/AgMBAAECggEAQVZInVsPB7PMfc5nLs3YWNbvqaAlSRnjAiMI+Wgkora4\nKpsGpUuxsNrUihyEgqT+uX3oaGFPbECKmklqXnekjrnOdUMbuMNa3iCZ1fK1NrPs\nUQhBaaSteS/E0FS7PBAG940fBrxw2RIuA1Zt9quPORwA5kjFSoiKdO3/OwYV5ceU\nWi3qQtEvRRRpwKPoyAE8F21hGyLuDRfWljMgtbwRFvz2NciNCaj3w9dojmkZaMeg\nxymovooOOayOD4WBKtlbw1++gzAvQ8FbOjIw9mTvPQ6tWYt2wDwWo2y830Nd4t2c\nIkhjAPkEWnqnhrUyGqbNOJp7Ib7QxY9P2MJLDxF+YQKBgQD3XUJ2PyCV60kp2Zcc\nX9Yp6MpYzxCbKv4ZX9V6ErTA1zeNv+zgmsMTzqsfDG+yl70fyQR0CEPYEKo2NzMg\nNsgpM2jbrcz84qjQe72A9a7s2Jmkrap+ESjv5mG8mDdauAsY3orBNltHRGsSfPkv\n9QP5g6uMq3m/BXgOyzl6NoUVHwKBgQC4yZt6J7iu3u6QhzZuy9WNolwVGXwHZi9c\nkmhhVEAvs8qfs11L/9Ey+G8g3ubY0XC16GPeUXzpa2bC421s/Pq9nsY+hVv/Mrit\nD7SBA48Jj/QM0WW4p+5IAHNQ6+8SVRnsBO0ZMQmV69/tD205yNcInz1rVJUnjaTj\nZDYWgePU4QKBgEKL/VhQbVTHwpwWpJeGlNgbf2xa8G2+KDPtW0IHDEeg3pos2u4l\n1Htcqx6kOtyCA+gsLR2GJ7JV8WS6fu+YrUqgQQJwhGg4FhBYacfq0I95SgRKkEZw\nGWJIyVxyWtn2D042eH+4PuAyYNfNdUBYmyQiLyGd9BfWwdDBDYp6Zl0jAoGABYD7\nwIeuWIcLVAKy/FnV4oITfA1mRFIm1vsFYODBiKoyPs941+qmsH310WTSO2MBmGlz\nkAudTNaGGQftGnHuhfdUsEgIlXFNTtpI5g7VE9PV0Qvrm7RkxIA+7woX9NPUEdOT\nvExZnL2JzeXHuxDgVsFncuryBluRrbQuaD02LAECgYALmOwuIYfsNjzmbabMcyZr\ncFvDTIscEr0rvAVF8iwbD5qEvjKhG4sbKQVDogImRbInDwI9hGczfYh9kde+3Btl\nHplElx9pkdkij0bNpEnARWBcR8ssfL70G3NfEWul+tSDJePsI8qqLWbkbuch4oA+\n+ibQc3Yt6ws1Aoq2HEqPXg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "imagedetector@image-detect-ai.iam.gserviceaccount.com",
+  "client_id": "117785926588111991400",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/imagedetector%40image-detect-ai.iam.gserviceaccount.com"
+}
